@@ -6,13 +6,11 @@ I am a full-stack software engineer living in Lecce, Italy (originally from Kara
 
 I am also a #Founder of @LecceTechCommunity community group, where I organise & host community tech meetups in Lecce, Italy.
 
-I also host a youtube talks [link to my playlist here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
+I also host a youtube talks [check my playlist here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
 
-You can read more about me on [narainsagar.com](http://narainsagar.com).
+You can read more about me on [narainsagar.com](http://narainsagar.com)
 
-You can read some of my old blogs posts [here](http://narainsagar.com/blog).
-
-Follow me on twitter [@narainsagar](https://twitter.com/narainsagar)
+You can read some of my old blogs posts [here](http://narainsagar.com/blog)
 
 ### Follow Me 👍
 
@@ -23,6 +21,7 @@ Follow me on twitter [@narainsagar](https://twitter.com/narainsagar)
 [Facebook](https://facebook.com/NarainSagarPage) | 
 [GitHub](https://github.com/narainsagar) | 
 [StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) | 
+[YoutubeChannel](https://www.youtube.com/channel/UC-akHWBnkhupW-KnbGZFJkg) | 
 [Upwork](https://www.upwork.com/freelancers/~01050a14629af3bda8)
 
 Cheers,
