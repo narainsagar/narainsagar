@@ -14,8 +14,6 @@ You can read some of my old blogs posts [here](http://narainsagar.com/blog).
 
 Follow me on twitter [@narainsagar](https://twitter.com/narainsagar)
 
-Cheers,
-
 ### Follow Me 👍
 
 [Website](http://narainsagar.com) | 
@@ -26,6 +24,8 @@ Cheers,
 [GitHub](https://github.com/narainsagar) | 
 [StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) | 
 [Upwork](https://www.upwork.com/freelancers/~01050a14629af3bda8)
+
+Cheers,
 
 <!--
 **narainsagar/narainsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
