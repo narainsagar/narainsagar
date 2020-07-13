@@ -16,6 +16,17 @@ Follow me on twitter [@narainsagar](https://twitter.com/narainsagar)
 
 Cheers,
 
+### Follow Me 👍
+
+[Website](http://narainsagar.com) | 
+[Blog](http://narainsagar.com/blog) | 
+[Twitter](https://twitter.com/narainsagar) | 
+[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
+[Facebook](https://facebook.com/NarainSagarPage) | 
+[GitHub](https://github.com/narainsagar) | 
+[StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) | 
+[Upwork](https://www.upwork.com/freelancers/~01050a14629af3bda8)
+
 <!--
 **narainsagar/narainsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
