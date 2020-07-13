@@ -12,7 +12,9 @@ You can read more about me on [narainsagar.com](http://narainsagar.com).
 
 You can read some of my old blogs posts [here](http://narainsagar.com/blog).
 
-Follow me on twitter @narainsagar
+Follow me on twitter [@narainsagar](https://twitter.com/narainsagar)
+
+Cheers,
 
 <!--
 **narainsagar/narainsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
