@@ -1,8 +1,8 @@
-### Hi there 👋
+### Yo! 👋
 
-## My name is Narain Sagar. 
+## My name is Narain Menghwar 
 
-I am a full-stack software engineer living in Lecce, Italy. My core expertise is in web & full-stack technologies, I love playing arround variety of technologies like Web, JS, PHP, Python, Java technologies, C/C++ etc.
+I am a software engineer living in Lecce, Puglia (Salento), Italy. My core expertise is in web & full-stack technologies, I love playing arround variety of technologies like Web, JS, PHP, Python, Java technologies, C/C++ etc.
 
 I am also a #Founder of @LecceTechCommunity community group, where we foster learning, tech, communities and advancement etc.
 
