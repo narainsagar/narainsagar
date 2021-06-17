@@ -2,22 +2,22 @@
 
 ## My name is Narain Sagar. 
 
-I am a full-stack software engineer living in Lecce, Italy (originally from Karachi, Pakistan). My core expertise is in web & full-stack technologies, I love playing arround with Javascript, PHP, Python and Java technologies. 
+I am a full-stack software engineer living in Lecce, Italy. My core expertise is in web & full-stack technologies, I love playing arround with Javascript, PHP, Python and Java technologies. 
 
-I am also a #Founder of @LecceTechCommunity community group, where I organise & host community tech meetups in Lecce, Italy.
+I am also a #Founder of @LecceTechCommunity community group, where we foster learning, tech, communities and advancement.
 
-I also host a youtube talks [check my playlist here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
+I host talks too, [check my playlist here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
 
-You can read more about me on [narainsagar.com](http://narainsagar.com)
+You can read more about me over [narainsagar.com](https://narainsagar.com)
 
-You can read some of my old blogs posts [here](http://narainsagar.com/blog)
+Feel free to check my articles [here](https://narainsagar.com/blog)
 
 ### Follow Me 👍
 
-[Website](http://narainsagar.com) | 
-[Blog](http://narainsagar.com/blog) | 
+[Website](https://narainsagar.com) | 
+[Blog](https://narainsagar.com/blog) | 
 [Twitter](https://twitter.com/narainsagar) | 
-[LinkedIn](https://www.linkedin.com/pk/narainsagar) | 
+[LinkedIn](https://www.linkedin.com/in/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) | 
 [GitHub](https://github.com/narainsagar) | 
 [StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) | 
@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ~ just chill ...
+- . ab bachay ki jaan logy kia :-P
 -->
