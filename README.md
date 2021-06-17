@@ -2,11 +2,11 @@
 
 ## My name is Narain Sagar. 
 
-I am a full-stack software engineer living in Lecce, Italy. My core expertise is in web & full-stack technologies, I love playing arround with Javascript, PHP, Python and Java technologies. 
+I am a full-stack software engineer living in Lecce, Italy. My core expertise is in web & full-stack technologies, I love playing arround variety of technologies like Web, JS, PHP, Python, Java technologies, C/C++ etc.
 
-I am also a #Founder of @LecceTechCommunity community group, where we foster learning, tech, communities and advancement.
+I am also a #Founder of @LecceTechCommunity community group, where we foster learning, tech, communities and advancement etc.
 
-I host talks too, [check my playlist here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
+[Checkout to my talks here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
 
 You can read more about me over [narainsagar.com](https://narainsagar.com)
 
