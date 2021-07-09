@@ -1,4 +1,4 @@
-### Yo! 👋
+### Yo 👋
 
 ## My name is Narain Menghwar 
 
@@ -20,9 +20,7 @@ Feel free to check my articles [here](https://narainsagar.com/blog)
 [LinkedIn](https://www.linkedin.com/in/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) | 
 [GitHub](https://github.com/narainsagar) | 
-[StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) | 
-[YoutubeChannel](https://www.youtube.com/channel/UC-akHWBnkhupW-KnbGZFJkg) | 
-[Upwork](https://www.upwork.com/freelancers/~01050a14629af3bda8)
+[StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) 
 
 Cheers,
 
