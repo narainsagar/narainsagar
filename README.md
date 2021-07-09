@@ -2,15 +2,13 @@
 
 ## My name is Narain Menghwar 
 
-I am a software engineer living in Lecce, Puglia (Salento), Italy. My core expertise is in web & full-stack technologies, I love playing arround variety of technologies like Web, JS, PHP, Python, Java technologies, C/C++ etc.
+Hi, I am a software engineer currently based in <i>Italy</i>. I like playing arround variety of technologies like Web, JS, PHP, C/C++ etc.
 
-I am also a #Founder of @LecceTechCommunity community group, where we foster learning, tech, communities and advancement etc.
+On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster learning, tech, education, communities, advancement and much more.
 
-[Checkout to my talks here](https://www.youtube.com/playlist?list=PLFld3mk5ceA491_BvFezzofF20BOtxBwI)
+You can read more about me [here](http://narainsagar.com)
 
-You can read more about me over [narainsagar.com](https://narainsagar.com)
-
-Feel free to check my articles [here](https://narainsagar.com/blog)
+Also, Feel free to check my articles [here](http://narainsagar.com/blog)
 
 ### Follow Me 👍
 
