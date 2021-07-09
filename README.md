@@ -2,7 +2,7 @@
 
 ## My name is Narain Menghwar 
 
-Hi, I am a software engineer currently based in <i>Italy</i>. I like playing arround variety of technologies like Web, JS, PHP, C/C++ etc.
+Hi, I am a software engineer (currently based in <i>Italy</i>). I like playing arround variety of technologies like Web, JS, PHP, C/C++ etc.
 
 On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster learning, tech, education, communities, advancement and much more.
 
