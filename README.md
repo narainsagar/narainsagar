@@ -1,8 +1,8 @@
 ### Yo! 👋
 
-## My name is Narain Menghwar 
+## My name is Narain (Sagar) Menghwar 
 
-Hi, I am a software engineer (currently based in <i>Italy</i>). I like playing arround variety of technologies like Web, JS, PHP, C/C++ etc.
+Hi, I am a software engineer (currently based in <i>Italy</i>). I like playing arround variety of technologies like Web, JS, PHP, C/C++ and many more.
 
 On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster learning, tech, education, communities, advancement and much more.
 
