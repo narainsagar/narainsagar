@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-## My name is Narain (Sagar) Menghwar 
+## My name is <i>Narain (Sagar) Menghwar.</i>
 
 Hi, I am a software engineer (currently based in <i>Italy</i>). I like playing arround variety of technologies like Web, JS, PHP, C/C++ and many more.
 
