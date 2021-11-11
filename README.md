@@ -1,4 +1,4 @@
-### Yo! 👋
+### Yo. 👋 - It's me! :)
 
 ## My name is <i>Narain (Sagar) Menghwar.</i>
 
