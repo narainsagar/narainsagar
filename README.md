@@ -2,11 +2,11 @@
 
 ## My name is <i>Narain (Sagar) Menghwar.</i>
 
-Hi, I am a software engineer (currently based in <i>Italy</i>). I like playing arround variety of technologies like Web, JS, PHP, C/C++ and many more.
+Hi, I am an simple software engineer (currently based in <i>EU - Schengen region</i>). I like playing arround bunch of technologies like: Web/Mobile, Javascript, PHP, Python/Java/.NET and C/C++ etc. and many more.
 
-On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster learning, tech, education, communities, advancement and much more.
+On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster students - learning, tech, education, communities, advancement ecc. and  more.
 
-You can read more about me [here](http://narainsagar.com)
+You can read more about me [here](http://narainsagar.github.io)
 
 Also, Feel free to check my articles [here](http://narainsagar.com/blog)
 
@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ~ just chill ...
 - . ab bachay ki jaan logy kia :-P
+- Keep going. Keep Looking. Don't settle! 
+- #NeverSettle and BeSafe.
+- Stay Hungry and Stay Foolish. 
+- 9
 -->
