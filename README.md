@@ -1,6 +1,6 @@
 ### Yo. 👋 - It's me! :)
 
-## My name is <i>Narain (Sagar) Menghwar.</i>
+## My name is <i>Narain Sagar</i>
 
 Hi, I am an simple software engineer (currently based in <i>EU - Schengen region</i>). I like playing arround bunch of technologies like: Web/Mobile, Javascript, PHP, Python/Java/.NET and C/C++ etc. and many more.
 
