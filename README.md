@@ -8,6 +8,21 @@ You can read more about me [here](http://narainsagar.github.io)
 
 Feel free to check my articles [here](http://narainsagar.com/blog)
 
+### Portfolios work + Awesome Codes
+
+Checkout some of awesome web development apps & demos Portfolios here: [http://bit.ly/3ibu1LC](http://bit.ly/3ibu1LC)
+
+Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I written during my graduation tenure (mainly with C++/C, PHP, Java, .NET and Web)
+
+<!--
+<html>
+  <head></head>
+  <body>
+  <iframe> src="https://narainsagar.github.io/embed/md.htm?src=https://gist.githubusercontent.com/narainsagar/35014fcfde49c4e566a63b0133e092a4/raw/d66445f6053c103a1aeef153185a96f471bbc622/portfolios_work.md"></iframe>
+  </body>
+</html>
+-->
+
 ### Follow Me 👍
 
 [Website](https://narainsagar.com) | 
