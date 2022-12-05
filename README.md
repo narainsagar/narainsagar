@@ -1,14 +1,12 @@
-### Yo. 👋 - It's me! :)
+### Hola 👋 - I'm Narain :)
 
-## My name is <i>Narain Sagar</i>
+Principal Software Engineer since 2015 (Currently based in <i>Europe (Schengen) region</i>). I love playing around bunch of technologies like; **TypeScript, Javascript, Node.js (+ Express.js / Koa2, Nest.js, Nuxt.js, Loopback, Meteor.js etc), React & Angular (with; Typescript), PHP (+Laravel), C++/C, also some Python (Django/Flask) and Java (Spring Boot framework)** and many more.
 
-Hi, I am an simple software engineer (currently based in <i>EU - Schengen region</i>). I like playing arround bunch of technologies like: Web/Mobile, Javascript, PHP, Python/Java/.NET and C/C++ etc. and many more.
-
-On the side, I am also a Founding Member of @LecceTechCommunity community group, where we foster students - learning, tech, education, communities, advancement ecc. and  more.
+Apart from that, I am also a Founding Member of @LecceTechCommunity -- where we foster people & students -- learning, technology, education, communities, advancement, startups & enterpreneurship etc.
 
 You can read more about me [here](http://narainsagar.github.io)
 
-Also, Feel free to check my articles [here](http://narainsagar.com/blog)
+Feel free to check my articles [here](http://narainsagar.com/blog)
 
 ### Follow Me 👍
 
