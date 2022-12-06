@@ -12,7 +12,7 @@ Feel free to check my articles [here](http://narainsagar.com/blog)
 
 Checkout some of awesome web development apps & demos Portfolios here: [http://bit.ly/3ibu1LC](http://bit.ly/3ibu1LC)
 
-Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I written during my graduation tenure (mainly with C++/C, PHP, Java, .NET and Web)
+Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I practiced during my graduation tenure back in 2011-2015 (mainly coded with; C++/C, PHP, Java, .NET, Web etc)
 
 <!--
 <html>
