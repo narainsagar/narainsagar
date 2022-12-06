@@ -25,13 +25,13 @@ Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar
 
 ### Follow Me 👍
 
-[Website](https://narainsagar.com) | 
-[Blog](https://narainsagar.com/blog) | 
-[Twitter](https://twitter.com/narainsagar) | 
+[Website](https://narainsagar.github.io) | 
 [LinkedIn](https://www.linkedin.com/in/narainsagar) | 
-[Facebook](https://facebook.com/NarainSagarPage) | 
 [GitHub](https://github.com/narainsagar) | 
-[StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar) 
+[StackOverflow](https://www.stackoverflow.com/users/5228251/narainsagar)
+<!-- [Blog](https://narainsagar.com/blog) | 
+[Twitter](https://twitter.com/narainsagar) | 
+[Facebook](https://facebook.com/NarainSagarPage) |  -->
 
 Cheers,
 
