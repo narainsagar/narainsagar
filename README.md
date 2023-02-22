@@ -1,8 +1,8 @@
 ### Hola 👋 - I'm Narain :)
 
-Principal Software Engineer since 2015 (Currently based in <i>ITALY, Europen region </i>). I love playing around bunch of technologies like; **TypeScript, Javascript, Node.js (+ Express.js / Koa2, Nest.js, Nuxt.js, Loopback, Meteor.js etc), React & Angular (with; Typescript), PHP (+Laravel), C++/C, also some Python (Django/Flask) and Java (Spring Boot framework)** and many more.
+Principal Software Engineer since 2015 (Currently based in <i>ITALY, Europen region </i>). I love playing around bunch of technologies like; **TypeScript, Javascript, Node.js (+ Express.js / Koa2, Nest.js, Nuxt.js, Loopback, Meteor.js etc), React & Angular (with; Typescript), PHP (+Laravel), C++/C, also some Python (Django/Flask) and bit of Java (Spring Boot framework)** and more.
 
-Apart from that, I am also a Founding Member of @LecceTechCommunity *(started in early 2020)* -- where we foster people & students -- learning, technology, education, communities, advancement, startups & enterpreneurship etc.
+Apart from that, I am also a Founding Member of [@LecceTechCommunity](https://leccetech.github.io) *(started in early 2020)* -- where we foster people & students -- learning, technology, education, communities, advancement, startups & enterpreneurship etc.
 
 Moreover, I enjoy speaking in front of a crowd, giving training, mentoring devs and sharing my knowledge through workshops or presentations in various community events and meetups. In my spare time, I enjoy watching cinemas, reading, traveling & visiting new places, and long walks.
 
