@@ -10,9 +10,11 @@ You can read more about me [here](http://narainsagar.github.io)
 
 Feel free to check some of my articles published [here](http://narainsagar.com/blog)
 
-### Portfolios work + Awesome Codes
+### portfolios / code-samples + awesome-codes
 
-Checkout some of cool web development apps Portfolios code and live demos here: [http://bit.ly/3ibu1LC](http://bit.ly/3ibu1LC)
+- code-samples + live demos and starter code templates [here](https://bit.ly/3CEqVt4)
+- Some favorite web development projects and Portfolios [here](http://bit.ly/3ibu1LC)
+- My [Awesome Codes](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md)
 
 Moreover, Here are some of my [awesome codes](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I practiced and wrote during my graduation tenure back in 2011-2015 (mainly using; C++/C, PHP, Java, .NET, Web langauges / technologies)
 
