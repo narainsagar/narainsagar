@@ -1,6 +1,6 @@
-### Hola 👋 - I'm Narain :)
+### Hi 👋 - I'm Narain :)
 
-Principal Software Engineer since 2015 (Currently based in <i>ITALY, Europen region </i>). I love playing around bunch of technologies like; **TypeScript, Javascript, Node.js (+ Express.js / Koa2, Nest.js, Nuxt.js, Loopback, Meteor.js etc), React & Angular (with; Typescript), PHP (+Laravel), C++/C, also some Python (Django/Flask) and bit of Java (Spring Boot framework)** and more.
+Principal Software Engineer since 2015 (Currently based in <i>Rome, ITALY</i>). I love playing around bunch of technologies like; **TypeScript, Javascript, Node.js (+ Express.js / Koa2, Nest.js, Next.js, Loopback, Meteor.js etc), React & Angular (with; Typescript), PHP (+Laravel), C++/C, also some Python (Django/Flask) and bit of Java (Spring Boot framework)** and more.
 
 Apart from that, I am also a Founding Member of [@LecceTechCommunity](https://leccetech.github.io) *(started in early 2020)* -- where we foster people & students -- learning, technology, education, communities, advancement, startups & enterpreneurship etc.
 
@@ -14,7 +14,7 @@ Feel free to check some of my articles published [here](http://narainsagar.com/b
 
 Checkout some of cool web development apps Portfolios code and live demos here: [http://bit.ly/3ibu1LC](http://bit.ly/3ibu1LC)
 
-Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I practiced during my graduation tenure back in 2011-2015 (mainly coded with; C++/C, PHP, Java, .NET, Web etc)
+Moreover, Here are some of my [awesome codes](https://github.com/narainsagar/awesome-codes/blob/master/AWESOME.md) -- I practiced and wrote during my graduation tenure back in 2011-2015 (mainly using; C++/C, PHP, Java, .NET, Web langauges / technologies)
 
 <!--
 <html>
@@ -34,8 +34,6 @@ Moreover, Here're some awesome codes [visit here](https://github.com/narainsagar
 <!-- [Blog](https://narainsagar.com/blog) | 
 [Twitter](https://twitter.com/narainsagar) | 
 [Facebook](https://facebook.com/NarainSagarPage) |  -->
-
-Cheers,
 
 <!--
 **narainsagar/narainsagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
